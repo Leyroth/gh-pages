@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gestion de Contenu",
+    "description": "",
+    "home_page_url": "https://leyroth.github.io/gh-pages",
+    "feed_url": "https://leyroth.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Léo Tissot"
+    },
+    "items": [
+        {
+            "id": "https://leyroth.github.io/gh-pages/ceci-est-ma-nouvelle-page-2.html",
+            "url": "https://leyroth.github.io/gh-pages/ceci-est-ma-nouvelle-page-2.html",
+            "title": "Ceci est ma nouvelle page",
+            "content_html": "<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://leyroth.github.io/gh-pages/media/posts/2/20171014_135503.jpg\" alt=\"\" width=\"4032\" height=\"3024\" sizes=\"100vw\" srcset=\"https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-xs.jpg 300w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-sm.jpg 480w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-md.jpg 768w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-lg.jpg 1024w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-xl.jpg 1360w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Léo Tissot"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-23T10:17:02+02:00",
+            "date_modified": "2023-10-23T11:23:45+02:00"
+        }
+    ]
+}
