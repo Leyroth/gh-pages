@@ -3,7 +3,7 @@
     <title>Gestion de Contenu</title>
     <link href="https://leyroth.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://leyroth.github.io/gh-pages" />
-    <updated>2023-10-23T11:23:45+02:00</updated>
+    <updated>2023-10-23T11:40:44+02:00</updated>
     <author>
         <name>Léo Tissot</name>
     </author>
@@ -17,11 +17,26 @@
         <link href="https://leyroth.github.io/gh-pages/ceci-est-ma-nouvelle-page-2.html"/>
         <id>https://leyroth.github.io/gh-pages/ceci-est-ma-nouvelle-page-2.html</id>
 
-        <updated>2023-10-23T11:23:45+02:00</updated>
-            <summary></summary>
+        <updated>2023-10-23T11:40:44+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Photographie Léo Tissot 😀 Herbes d'automne
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--full"><img loading="lazy"  src="https://leyroth.github.io/gh-pages/media/posts/2/20171014_135503.jpg" alt="" width="4032" height="3024" sizes="100vw" srcset="https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-xs.jpg 300w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-sm.jpg 480w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-md.jpg 768w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-lg.jpg 1024w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-xl.jpg 1360w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-2xl.jpg 1600w"></figure>
+                <table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 49.9526%;">Photographie</td>
+<td class="align-center" style="width: 49.9526%;">Léo Tissot</td>
+</tr>
+</tbody>
+</table>
+<p class="align-center"><span style="color: #000000;">😀</span></p>
+<figure class="post__image post__image--full" ><img loading="lazy" src="https://leyroth.github.io/gh-pages/media/posts/2/20171014_135503.jpg" alt="" width="4032" height="3024" sizes="100vw" srcset="https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-xs.jpg 300w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-sm.jpg 480w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-md.jpg 768w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-lg.jpg 1024w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-xl.jpg 1360w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-2xl.jpg 1600w">
+<figcaption >Herbes d'automne</figcaption>
+</figure>
             ]]>
         </content>
     </entry>

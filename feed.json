@@ -13,14 +13,15 @@
             "id": "https://leyroth.github.io/gh-pages/ceci-est-ma-nouvelle-page-2.html",
             "url": "https://leyroth.github.io/gh-pages/ceci-est-ma-nouvelle-page-2.html",
             "title": "Ceci est ma nouvelle page",
-            "content_html": "<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://leyroth.github.io/gh-pages/media/posts/2/20171014_135503.jpg\" alt=\"\" width=\"4032\" height=\"3024\" sizes=\"100vw\" srcset=\"https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-xs.jpg 300w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-sm.jpg 480w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-md.jpg 768w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-lg.jpg 1024w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-xl.jpg 1360w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-2xl.jpg 1600w\"></figure>",
+            "summary": "Photographie Léo Tissot 😀 Herbes d'automne",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9526%;\">Photographie</td>\n<td class=\"align-center\" style=\"width: 49.9526%;\">Léo Tissot</td>\n</tr>\n</tbody>\n</table>\n<p class=\"align-center\"><span style=\"color: #000000;\">😀</span></p>\n<figure class=\"post__image post__image--full\" ><img loading=\"lazy\" src=\"https://leyroth.github.io/gh-pages/media/posts/2/20171014_135503.jpg\" alt=\"\" width=\"4032\" height=\"3024\" sizes=\"100vw\" srcset=\"https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-xs.jpg 300w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-sm.jpg 480w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-md.jpg 768w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-lg.jpg 1024w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-xl.jpg 1360w ,https://leyroth.github.io/gh-pages/media/posts/2/responsive/20171014_135503-2xl.jpg 1600w\">\n<figcaption >Herbes d'automne</figcaption>\n</figure>",
             "author": {
                 "name": "Léo Tissot"
             },
             "tags": [
             ],
             "date_published": "2023-10-23T10:17:02+02:00",
-            "date_modified": "2023-10-23T11:23:45+02:00"
+            "date_modified": "2023-10-23T11:40:44+02:00"
         }
     ]
 }
